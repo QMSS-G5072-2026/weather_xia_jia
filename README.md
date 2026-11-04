@@ -1,5 +1,7 @@
 # weather_jx2708
 
+![ci](https://github.com/QMSS-G5072-2026/weather_xia_jia/actions/workflows/ci.yml/badge.svg)
+
 Python tool to change temperature values and fix weather reports.
 
 ## Installation
